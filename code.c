@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("test code\n");
-	printf("test1111\n");
+	printf("炮楼\n");
 	return 0;
 }
