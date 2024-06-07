@@ -37,4 +37,28 @@
 ### 混合列表
 1. 测试一级
 	* 测试二级
-		2. 测试三级
+	2. 测试三级
+### 表格
+名称|技能|排行
+--|:--:|--:
+蝙蝠侠|有钱|24
+海王|游泳|12
+闪电侠|跑步|23
+### 代码片段
+```c
+#include<stdio.h>
+int main()
+{
+	printf("test code\n");
+	return 0;
+}
+```
+```cpp
+#include<iostream>
+```
+```python
+import <os>
+```
+```bash
+echo"测试"
+```
