@@ -1,4 +1,4 @@
-# <font color=blue>Linux高级编程(第四阶段)</font>
+# Linux高级编程(第四阶段)
 ## Github
 ***关键字查询 awesome,去此标签类别中查询项目***<br>
 ***python tutorial,查询资料，书籍，文档***<br>
