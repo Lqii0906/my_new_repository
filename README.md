@@ -99,4 +99,4 @@ echo"测试"
 
 ### 插入图片
 
-![壁纸截图](https://i.postimg.cc/ZqdBD5Lh/1.png "壁纸截图")
+![1.png](https://postimg.cc/XZnYr3h2)
