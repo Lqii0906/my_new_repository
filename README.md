@@ -94,9 +94,9 @@ echo"测试"
 ```
 <br>
 ### 超链接技术
-<br>
-[Github](https://www.github.com "点击访问Github")
-<br>
+
+[Github](https://www.github.com)
+
 ### 插入图片
-<br>
+
 ![壁纸截图](https://i.postimg.cc/ZqdBD5Lh/1.png "壁纸截图")
